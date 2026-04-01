@@ -1,0 +1,76 @@
+{
+  "公共": [
+    {
+      "intent_name": "留联系方式",
+      "description": "提供中国大陆手机号（11位数字或+86开头）或提供微信号（含微信、wx、加V）或用于联系的≥6位纯数字/字母数字组合。"
+    },
+    {
+      "intent_name": "推荐车型",
+      "description": "要求推荐车辆。"
+    },
+    {
+      "intent_name": "询问经销商",
+      "description": "询问门店地址、电话、营业时间、具体联系人或看车时间。"
+    },
+    {
+      "intent_name": "询问价格",
+      "description": "询问车辆全款、落地价、报价及车系价格对比。"
+    },
+    {
+      "intent_name": "询问车型",
+      "description": "询问具体车型配置，或询问多车型的性能对比。"
+    },
+    {
+      "intent_name": "询问政策",
+      "description": "询问活动、折扣、现金补贴、赠品、流量服务、以旧换新、旧车估价（包含输入具体年份旧车信息、贷款方案、免息、分期、首付、月供、购车是否赠送保养。"
+    },
+    {
+      "intent_name": "售后",
+      "description": "询问维修、救援、车辆故障处理及售后服务时间。"
+    },
+    {
+      "intent_name": "勿扰",
+      "description": "明确拒绝电话骚扰，或指定了沟通的时间与方式。"
+    },
+    {
+      "intent_name": "询问试驾",
+      "description": "询问试驾信息或提出试驾要求。"
+    },
+    {
+      "intent_name": "询问质保",
+      "description": "询问整车、三电系统、发动机等保修政策。"
+    },
+    {
+      "intent_name": "询问上牌",
+      "description": "询问上牌、临牌、异地牌照事宜。"
+    },
+    {
+      "intent_name": "询问二手车",
+      "description": "询问是否可以购买二手车/退役试驾车"
+    },
+    {
+      "intent_name": "转人工",
+      "description": "明确表达想与人工客服或真实销售沟通。"
+    }
+  ],
+  "奇瑞": [
+    {
+      "intent_name": "中奖",
+      "description": "提及中奖、兑奖、奖品查询及物流发货"
+    },
+    {
+      "intent_name": "黑户",
+      "description": "表明自身征信不良、征信花、有逾期或连三累六等负面信用记录。"
+    }
+  ],
+  "风云": [
+    {
+      "intent_name": "高认可",
+      "description": "表达对当前服务的满意，对车辆配置的认可"
+    },
+    {
+      "intent_name": "介绍品牌",
+      "description": "询问当前品牌的特点，调性，风格"
+    }
+  ]
+}
